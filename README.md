@@ -8,7 +8,7 @@ I love code!!
 
 * 🌍  I'm based in Dallas, TX
 * ✉️  You can contact me at [harshal4897@gmail.com](mailto:harshal4897@gmail.com)
-* 🚀  I'm currently working on [My Portfolio Website](http://github.com/im-harshal/portfolio-website-2/tree/main/react-portfolio-2)
+* 🚀  I'm currently working on [My Portfolio Website](http://github.com/im-harshal/portfolio-website-2/tree/main/react-portfolio)
 * 🧠  I'm learning React.js, NLTK, Unity
 * 🤝  I'm open to collaborating on other react projects
 * ⚡  i'm a sneakerhead and f1 enthusiast
