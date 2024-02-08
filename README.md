@@ -4,8 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I love code!!
+Passionate software engineer with a hunger for challenges and a knack for building cool stuff.
 
+* 🎓 I'm curently pursuing my Master's in Computer Science at UT Dallas
 * 🌍  I'm based in Dallas, TX
 * ✉️  You can contact me at [harshal4897@gmail.com](mailto:harshal4897@gmail.com)
 * 🚀  I'm currently working on [My Portfolio Website](https://github.com/im-harshal/react-portfolio)
