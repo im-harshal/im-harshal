@@ -7,7 +7,7 @@ Passionate software engineer with a hunger for challenges and a knack for buildi
 * ✉️  You can contact me at [harshal4897@gmail.com](mailto:harshal4897@gmail.com)
 * 🚀  I'm currently working on [My Portfolio Website](https://github.com/im-harshal/react-portfolio)
 * 🧠  I'm learning React.js, NLP, Database Design and Unity
-* 🤝  I'm open to collaborating on other react projects
+* 🤝  I'm open to collaborating on react, spring boot or any open source projects
 * ⚡  I'm a sneakerhead and f1 enthusiast
 
 ### Skills
