@@ -42,7 +42,3 @@ Passionate software engineer with a hunger for challenges and a knack for buildi
 </div>
 
 <br/>
-
-<br />
-
-![](https://komarev.com/ghpvc/?username=im-harshal)
