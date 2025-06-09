@@ -11,8 +11,8 @@
 
 Passionate software engineer with a hunger for challenges and a knack for building cool stuff.
 
-- 🎓 I'm curently pursuing my Master's in Computer Science at UT Dallas
-- 🧠 I'm learning React.js, System Design and solving leetcode problems
+- 🎓 Master's in Computer Science from UT Dallas
+- 🧠 I'm learning React.js, System Design, AWS and solving leetcode problems
 - 🤝 I'm open to collaborating on react, spring boot or any open source projects
 - ⚡ I'm a sneakerhead and f1 enthusiast
 
