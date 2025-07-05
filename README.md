@@ -9,12 +9,12 @@
 
 ### About Me!
 
-Passionate software engineer with a hunger for challenges and a knack for building cool stuff.
-
-- 🎓 Master's in Computer Science from UT Dallas
-- 🧠 I'm learning React.js, System Design, AWS and solving leetcode problems
-- 🤝 I'm open to collaborating on react, spring boot or any open source projects
-- ⚡ I'm a sneakerhead and f1 enthusiast
+I'm a passionate **Software Engineer** with 3.5+ years experience building scalable backend systems and modern web applications.  
+- 🧑‍💻 Ex-BillDesk | CS @ UTDallas (MS '25)
+- 👨‍💻 Specializing in Java, Spring Boot, REST APIs, microservices, AWS, React.js & Next.js
+- 🔎 Actively learning cloud architecture, system design, and building side projects with GenAI
+- 🤝 Open to collaboration on React, Spring Boot, or cloud projects  
+- ⚡ Outside work: Sneakerhead 👟 | F1 fan 🏎️ | Coffee enthusiast ☕
 
 <br/>
 
@@ -39,3 +39,17 @@ Passionate software engineer with a hunger for challenges and a knack for buildi
 </div>
 
 <br/>
+
+### 🏆 Featured Projects
+
+- **[Image Processing Pipeline](https://nublog.cloud/posts/my-second-post/)**  
+  Serverless image upload & metadata extraction using AWS Lambda, S3, Rekognition & DynamoDB.
+
+- **[LumaBot](https://github.com/im-harshal/lumabot)**  
+  Stateful conversational AI agent using LangGraph + Gemini API, manages café orders & queries.
+
+- **[nublog.cloud](https://nublog.cloud/)**  
+  Personal blog: Hugo, AWS S3/CloudFront, ACM, with custom domain & automated deploys.
+
+- **[Portfolio Website](https://imharshal.vercel.app/)**  
+  Responsive, animated portfolio with Next.js, Tailwind CSS, and Framer Motion.
