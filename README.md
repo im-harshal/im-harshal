@@ -19,7 +19,7 @@ I'm a passionate **Software Engineer** with 3.5+ years experience building scala
 <br/>
 
 ## 🛠️ Tech Stack
-
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,nextjs,react,tailwind,aws,git,mysql,mongodb,vscode,postman,maven,docker,firebase&perline=8)](https://skillicons.dev)
 
 <br/>
 
