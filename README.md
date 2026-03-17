@@ -1,38 +1,28 @@
 ## Hey 👋, I'm Harshal Patel!
 
+### About Me!
+
+I'm a passionate **Software Engineer with 3.5+ years experience** specializing in building scalable backend systems and intelligent AI-driven applications.  
+- 🧑‍💻 **Ex-BillDesk** | CS @ **UTDallas** (MS '25)
+- 👨‍💻 **Expertise:** Java, Spring Boot, Microservices, AWS, & Next.js
+- 🔎 **Current Focus:** Scaling GenAI agents with LangGraph, RAG, and Cloud-Native Orchestration (K8s/Docker)
+- 🤝 **Open to:** Collaborating on Spring Boot, React, Next or AI-orchestration projects
+- ⚡ **Outside work:** Sneakerhead 👟 | F1 fan 🏎️ | Coffee enthusiast ☕
+
 <a href="https://linkedin.com/in/hp97" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/emharshal" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-
-### About Me!
-
-I'm a passionate **Software Engineer** with 3.5+ years experience building scalable backend systems and modern web applications.  
-- 🧑‍💻 Ex-BillDesk | CS @ UTDallas (MS '25)
-- 👨‍💻 Specializing in Java, Spring Boot, REST APIs, microservices, AWS, React.js & Next.js
-- 🔎 Actively learning cloud architecture, system design, and building side projects with GenAI
-- 🤝 Open to collaboration on React, Spring Boot, or cloud projects  
-- ⚡ Outside work: Sneakerhead 👟 | F1 fan 🏎️ | Coffee enthusiast ☕
-
 <br/>
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,nextjs,react,tailwind,aws,git,mysql,mongodb,vscode,postman,maven,docker,firebase&perline=8)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,ts,nextjs,react,tailwind,aws,docker,kubernetes,kafka,postgres,supabase&perline=7)](https://skillicons.dev)
 
 <br/>
 
 ### 🏆 Featured Projects
 
-- **[Image Processing Pipeline](https://nublog.cloud/posts/my-second-post/)**  
-  Serverless image upload & metadata extraction using AWS Lambda, S3, Rekognition & DynamoDB.
-
-- **[LumaBot](https://github.com/im-harshal/lumabot)**  
-  Stateful conversational AI agent using LangGraph + Gemini API, manages café orders & queries.
-
-- **[nublog.cloud](https://nublog.cloud/)**  
-  Personal blog: Hugo, AWS S3/CloudFront, ACM, with custom domain & automated deploys.
-
-- **[Portfolio Website](https://imharshal.vercel.app/)**  
-  Responsive, animated portfolio with Next.js, Tailwind CSS, and Framer Motion.
+* **[Treso](https://github.com/im-harshal/treso)** - Secure personal finance API built with **Spring Boot & JWT**, fully containerized and deployed with **Kubernetes**.
+* **[Image Processing Pipeline](https://nublog.cloud/posts/my-second-post/)** - A **Serverless** AWS workflow (Lambda, S3, Rekognition) for automated image metadata extraction.
+* **[LumaBot](https://github.com/im-harshal/lumabot)** - Advanced conversational agent using **LangGraph & Gemini** to manage complex, stateful cafe interactions.
+* **[nublog.cloud](https://nublog.cloud/)** - Cloud-native blog utilizing Hugo, AWS S3/CloudFront, and automated CI/CD pipelines.
