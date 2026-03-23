@@ -7,7 +7,7 @@ I'm a passionate **Software Engineer with 3.5+ years experience** specializing i
 - 👨‍💻 **Expertise:** Java, Spring Boot, Microservices, AWS, & Next.js
 - 🔎 **Current Focus:** Scaling GenAI agents with LangGraph, RAG, and Cloud-Native Orchestration (K8s/Docker)
 - 🤝 **Open to:** Collaborating on Spring Boot, React, Next or AI-orchestration projects
-- ⚡ **Outside work:** Sneakerhead 👟 | F1 fan 🏎️ | Coffee enthusiast ☕
+- ⚡ **Outside work:** <a href="https://imvault.vercel.app/" target="_blank">Sneakerhead 👟</a> | F1 fan 🏎️ | Coffee enthusiast ☕
 
 <a href="https://linkedin.com/in/hp97" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
