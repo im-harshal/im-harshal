@@ -22,7 +22,8 @@ I'm a passionate **Software Engineer with 3.5+ years experience** specializing i
 
 ### 🏆 Featured Projects
 
-* **[Treso](https://github.com/im-harshal/treso)** - Secure personal finance API built with **Spring Boot & JWT**, fully containerized and deployed with **Kubernetes**.
+* **[Treso](https://github.com/im-harshal/treso)** - Distributed personal finance **REST API** featuring event-driven architecture (Kafka), distributed API protection (Redis), and stateful Kubernetes orchestration.
+* **[WikiRag](https://github.com/im-harshal/wiki-rag)** * - A **Retrieval-Augmented Generation (RAG)** chatbot that lets you ask questions over Wikipedia articles
 * **[Image Processing Pipeline](https://nublog.cloud/posts/my-second-post/)** - A **Serverless** AWS workflow (Lambda, S3, Rekognition) for automated image metadata extraction.
 * **[LumaBot](https://github.com/im-harshal/lumabot)** - Advanced conversational agent using **LangGraph & Gemini** to manage complex, stateful cafe interactions.
 * **[nublog](https://nublog.pages.dev/)** - Cloud-native blog utilizing Hugo, AWS S3/CloudFront, and automated CI/CD pipelines.
